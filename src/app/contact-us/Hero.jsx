@@ -21,7 +21,7 @@ const Banner = () => {
             <p>
               <span className="font-medium">Phone</span>:{" "}
               <a href="tel:+919880043717" className="text-indigo-600">
-                +91 98800 43717
+                +91 93536 90229
               </a>
             </p>
             <p>

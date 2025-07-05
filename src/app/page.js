@@ -29,7 +29,7 @@ export default function Home() {
       <ClientResults/>
       <OurPhilosophy/>
       <ProgramSteps/>
-      <AppPromoSection/>
+      {/* <AppPromoSection/> */}
       <ExpertTeamSection/>
     </div>
   );

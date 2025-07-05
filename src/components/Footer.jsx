@@ -66,7 +66,7 @@ export default function Footer() {
           {/* Column 4 - Contact */}
           <div>
             <h3 className="font-bold text-white mb-3">CONTACT US</h3>
-            <p className="mb-2">Phone: +91 98800 43717</p>
+            <p className="mb-2">Phone: +91 93536 90229</p>
             <p className="mb-2">Mon–Fri: 10am–6pm</p>
             <p>Mail: deepta.manu@gmail.com</p>
           </div>
