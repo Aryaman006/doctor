@@ -23,7 +23,7 @@ export default function Home() {
       <WelcomeSection />
       <RegisterCard/>
       <YoutubeSection/>
-      <OurPrograms/>
+      {/* <OurPrograms/> */}
       <ShortTestimonials/>
       <HowHealingWorks/>
       <ClientResults/>

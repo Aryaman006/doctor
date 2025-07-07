@@ -11,7 +11,7 @@ const testimonials = [
   },
   {
     video: '/testimonial3.mp4',
-    name: 'Meena',
+    name: 'Punitha',
   },
   {
     video: '/Sunitha.mp4',
